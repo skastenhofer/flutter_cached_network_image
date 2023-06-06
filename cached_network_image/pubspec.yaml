@@ -15,7 +15,7 @@ dependencies:
   octo_image: ^1.0.0
   cached_network_image_platform_interface:
     git:
-      url: https://github.com/skastenhofer/flutter_cached_network_imaage
+      url: https://github.com/skastenhofer/flutter_cached_network_image
       ref: develop
       path: cached_network_image_platform_interface
   cached_network_image_web:
